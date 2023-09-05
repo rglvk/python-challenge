@@ -1,0 +1,12 @@
+
+PyBank:
+
+Total Months: 86
+
+Total: 22,564,198
+
+Average Change: 4448.13
+
+Greatest Increase: 1,862,002
+
+Greatest Decrease: -1,825,558
